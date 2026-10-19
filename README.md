@@ -23,15 +23,23 @@ Welcome to my GitHub profile! I'm an IT student interested in web development, s
 
 ## 🌐 Portfolio
 
-Explore my skills, projects, and background on my personal website.
-
-[**Visit My Portfolio →**](https://andreo-kent-tarre.vercel.app/)
+<p align="left">
+  <a href="https://andreo-kent-tarre.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio" />
+  </a>
+</p>
 
 ## 📫 Connect With Me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/andreo-kent-tarre/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/andreo.kent.tarre.2024">
+    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Find me on Facebook" />
+  </a>
   <a href="https://github.com/dreoooo">
-    <img src="https://img.shields.io/badge/GitHub-dreoooo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow me on GitHub" />
   </a>
 </p>
 
