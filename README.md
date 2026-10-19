@@ -1,37 +1,42 @@
 # Hi, I'm Andreo Kent Tarre 👋
 
-🎓 IT Student | Aspiring IT Professional
+🎓 **IT Student | Aspiring IT Professional**
 
 Welcome to my GitHub profile! I'm an IT student interested in web development, software development, and exploring new technologies.
 
 ## 💻 Tech Stack
 
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Framework:** Laravel
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Visual Studio Code
+### Languages & Web Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="HTML, CSS, JavaScript, PHP" />
+</p>
 
-## 🚀 Featured Projects
+### Frameworks & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,mysql" alt="Laravel, MySQL" />
+</p>
 
-### 🎓 HTC Scholarship System
-An integrated web-based system for scholarship application and evaluation at Holy Trinity College of General Santos City.
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, Visual Studio Code, Docker" />
+</p>
 
-[View Project](https://github.com/dreoooo/htc-scholarship-system)
+## 🌐 My Portfolio
 
-### 🌐 My Portfolio
-My personal portfolio showcasing my skills, projects, and background.
+Check out my personal portfolio to learn more about my skills, projects, and background.
 
-[Visit My Portfolio](https://andreo-kent-tarre.vercel.app/)
-
-### 📜 My Certificates
-A collection of my certificates and learning achievements.
-
-[View My Certificates](https://github.com/dreoooo/My_Certificates)
+[**Visit My Portfolio →**](https://andreo-kent-tarre.vercel.app/)
 
 ## 📫 Connect With Me
 
-- **Portfolio:** [andreo-kent-tarre.vercel.app](https://andreo-kent-tarre.vercel.app/)
-- **GitHub:** [github.com/dreoooo](https://github.com/dreoooo)
+<p align="left">
+  <a href="https://github.com/dreoooo">
+    <img src="https://img.shields.io/badge/GitHub-dreoooo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://andreo-kent-tarre.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio" />
+  </a>
+</p>
 
 ---
 
