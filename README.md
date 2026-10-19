@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm an IT student interested in web development, s
 
 <p align="left">
   <a href="https://andreo-kent-tarre.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
   </a>
 </p>
 
