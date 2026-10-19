@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm an IT student interested in web development, s
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git, GitHub, Visual Studio Code, Docker" />
 </p>
 
-## 🌐 My Portfolio
+## 🌐 Portfolio
 
-Check out my personal portfolio to learn more about my skills, projects, and background.
+Explore my skills, projects, and background on my personal website.
 
 [**Visit My Portfolio →**](https://andreo-kent-tarre.vercel.app/)
 
@@ -32,9 +32,6 @@ Check out my personal portfolio to learn more about my skills, projects, and bac
 <p align="left">
   <a href="https://github.com/dreoooo">
     <img src="https://img.shields.io/badge/GitHub-dreoooo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://andreo-kent-tarre.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal portfolio" />
   </a>
 </p>
 
